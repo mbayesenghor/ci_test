@@ -10,6 +10,7 @@ public class Test implements Serializable {
     private String prenom;
     private String adresse;
     private int age;
+    private double taille;
 
     public Test(){
         new Date();

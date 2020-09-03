@@ -11,6 +11,5 @@ public class Test implements Serializable {
     private String adresse;
 
     public Test(){
-        new Date();
     }
 }

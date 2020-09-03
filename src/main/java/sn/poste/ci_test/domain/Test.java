@@ -7,4 +7,7 @@ public class Test implements Serializable {
     private String nom;
     private String prenom;
 
+    public Test(){
+
+    }
 }

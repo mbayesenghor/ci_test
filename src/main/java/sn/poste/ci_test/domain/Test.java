@@ -9,6 +9,7 @@ public class Test implements Serializable {
     private String nom;
     private String prenom;
     private String adresse;
+    private int age;
 
     public Test(){
         new Date();

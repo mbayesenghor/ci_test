@@ -5,6 +5,7 @@ import java.util.Date;
 
 public class Test implements Serializable {
 
+    private Long id;
     private String nom;
     private String prenom;
     private String adresse;
